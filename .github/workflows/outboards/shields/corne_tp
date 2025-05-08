@@ -1,0 +1,8 @@
+# Copyright 2023 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_repository=https://github.com/emilyjlee/corne_tp_zmk
+outboard_ref=master
+outboard_from=boards/shields/corne_tp
+outboard_to=boards/shields/corne_tp
+outboard_modules=infused-kim/kb_zmk_ps2_mouse_trackpoint_driver/main
